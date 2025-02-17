@@ -1,4 +1,6 @@
 /node_modules
 /package-lock.json
 
+/build/packs/*/scripts
+/build/packs/*/manifest.json
 *.mceditoraddon
